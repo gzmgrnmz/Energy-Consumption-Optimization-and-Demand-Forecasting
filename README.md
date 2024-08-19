@@ -19,3 +19,11 @@ commissioning_year: Year when the power plant was commissioned
 generation_gwh_2013 to generation_gwh_2019: Energy generation in gigawatt-hours for each year
 generation_data_source: Source of the generation data
 estimated_generation_gwh_2013 to estimated_generation_gwh_2017: Estimated energy generation in gigawatt-hours
+
+# Languages and Tools
+Python: Programming language used for data analysis and modeling.
+Pandas: Library for data manipulation and analysis.
+NumPy: Library for numerical operations.
+Matplotlib: Library for creating static, animated, and interactive visualizations.
+Seaborn: Statistical data visualization library based on Matplotlib.
+Scikit-Learn: Machine learning library used for building and evaluating regression models.
