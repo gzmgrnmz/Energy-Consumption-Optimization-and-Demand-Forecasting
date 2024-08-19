@@ -1,9 +1,9 @@
 # Energy-Consumption-Optimization-and-Demand-Forecasting
 
-#Overview
+# Overview
 This project analyzes global energy production data to understand trends, correlations, and optimization opportunities in power plants. The dataset includes information about power plant capacities, fuel types, and energy generation over several years.
 
-#Dataset
+# Dataset
 The dataset used in this project is global_power_plant_database.csv, which contains the following columns:
 
 country: Country where the power plant is located
